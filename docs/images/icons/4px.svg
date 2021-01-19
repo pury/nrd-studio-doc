@@ -1,0 +1,19 @@
+<svg width="168" height="167" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>编组</title>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="593" width="1164" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="页面-1">
+   <g id="编组">
+    <line fill="#000" stroke-linecap="square" stroke-width="20" stroke="#000000" id="直线" y2="139.5" x2="165.5" y1="139.5" x1="2.5"/>
+    <text stroke="#000000" x="2" y="-20" fill="#000" font-weight="500" font-size="120" font-family="PingFangSC-Semibold, PingFang SC" id="4">
+     <tspan stroke="#000000" fill="#000" id="svg_1" y="127" x="46">4</tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+</svg>
