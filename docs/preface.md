@@ -10,7 +10,7 @@
 
 #### 文档 
 
-NRD Studio在线文档，请访问：[NRD Studio文档](/preface)。
+NRD Studio在线文档，请访问：[NRD Studio文档](http://tech.pkoala.com/docs/#/preface)。
 
 #### 在线编辑器 
 
@@ -30,4 +30,3 @@ NRD Studio在线编辑器，请访问：[NRD Studio](http://tech.pkoala.com)。
 #### 联系我们
 
 关于本开发文档，任何问题，都可反馈到[这里](https://github.com/pury/nrd-studio/issues)，谢谢！
-
