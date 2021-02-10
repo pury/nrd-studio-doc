@@ -6,3 +6,7 @@ img[src*="#logo"] {
 	width: 100px;
 	height: 100px;
 }
+
+.doc-icon {
+ 	width: 16px;
+}

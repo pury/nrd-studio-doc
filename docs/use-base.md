@@ -21,11 +21,11 @@
 * ![avatar](/images/icons/layout-sidebar.svg) 显示/隐藏侧边栏
 * ![avatar](/images/icons/zoom-in.svg) 放大图谱
 * ![avatar](/images/icons/zoom-out.svg) 缩小图谱
-* ![avatar-w30](/images/icons/lasso.svg#icon) 套索工具
-* ![avatar](/images/icons/hide.svg#icon) 隐藏节点
-* ![avatar](/images/icons/disableDrag.svg#icon) 禁止拖拽
-* ![avatar](/images/icons/disableAnimation.svg#icon) 禁止动画效果
-* ![avatar](/images/icons/reset.svg#icon) 重置图谱
+* <img src="./images/icons/lasso.svg" class = "doc-icon" /> 套索工具
+* <img src="./images/icons/hide.svg" class = "doc-icon" /> 隐藏节点
+* <img src="./images/icons/disableDrag.svg" class = "doc-icon" /> 禁止拖拽
+* <img src="./images/icons/disableAnimation.svg" class = "doc-icon" /> 禁止动画效果
+* <img src="./images/icons/reset.svg" class = "doc-icon" /> 重置图谱
 * ![avatar](/images/icons/play-circle-outline.svg) 运行预览
 * ![avatar](/images/icons/image.svg) 有图/无图模式切换
 * ![avatar](/images/icons/table.svg) 快速构建

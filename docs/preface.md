@@ -18,7 +18,7 @@ NRD Studio在线编辑器，请访问：[NRD Studio](http://tech.pkoala.com)。
 
 #### 头条小程序 
 
-![头条小程序](/images/tt_qrcode.svg#logo);
+![头条小程序](https://tech.pkoala.com/docs/images/tt_qrcode.svg#logo);
 
 
 #### 推荐 
@@ -28,5 +28,7 @@ NRD Studio在线编辑器，请访问：[NRD Studio](http://tech.pkoala.com)。
 
 
 #### 联系我们
+
+图谱渲染目前基于[roc-charts](https://github.com/hepeng10/roc-charts)，后续会全部重构。
 
 关于本开发文档，任何问题，都可反馈到[这里](https://github.com/pury/nrd-studio/issues)，谢谢！

@@ -6,6 +6,6 @@
 
 ![a](./images/set_general.png)
 
-## 系统
+## 主题
 
-![a](./images/set_system.png)
+![a](./images/set_theme.png)
