@@ -8,6 +8,21 @@
 
 专注于人物关系图谱制作，深挖关联链，引入圈子、标签等概念。重视交互性，通过操作图谱能更详细了解作品。
 
+
+#### 主界面
+
+![主界面](/images/mainui.png)
+
+#### 效果图
+
+2D版
+
+![2D效果图](https://tech.pkoala.com/assets/images/a2d.gif)
+
+3D版
+
+![3D效果图](https://tech.pkoala.com/assets/images/a3d.gif)
+
 #### 文档 
 
 NRD Studio在线文档，请访问：[NRD Studio文档](http://tech.pkoala.com/docs/#/preface)。
@@ -28,6 +43,8 @@ NRD Studio在线编辑器，请访问：[NRD Studio](http://tech.pkoala.com)。
 
 
 #### 联系我们
+
+* 官方QQ交流群: 294675251
 
 图谱渲染目前基于[roc-charts](https://github.com/hepeng10/roc-charts)，后续会全部重构。
 
