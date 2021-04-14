@@ -6,11 +6,25 @@
 
 [在线demo](https://tech.pkoala.com/#/view?app=demo)。
 
+2D效果图
+
+![2D效果图](https://tech.pkoala.com/assets/images/a2d.gif)
+
+
+3D效果图
+
+![3D效果图](https://tech.pkoala.com/assets/images/a3d.gif)
+
+
 #### 概述
 
 不同于常见的绘图工具，**NRD Studio**只需简单填写人物和关系数据，即可自动得到动态图谱，便捷高效，不用关心图中各元素的制作。
 
 专注于人物关系图谱制作，深挖关联链，引入圈子、标签等概念。重视交互性，通过操作图谱能更详细了解作品。
+
+##### 主界面
+
+![主界面](https://tech.pkoala.com/docs/images/mainui.png)
 
 #### 文档 
 
