@@ -1,6 +1,6 @@
 # 3D版
 
-NRD Studio 3D版即将发布，敬请期待。
+NRD Studio 3D版关系网即将发布，敬请期待。
 
 * 鼠标悬浮头像，弹出人物简介信息。
 * 点击头像，高亮显示有关联的人物，关系线触发动态粒子效果。
@@ -12,4 +12,4 @@ NRD Studio 3D版即将发布，敬请期待。
 
 [《王者荣耀》人物关系网 - 3D体验版](https://tech.pkoala.com/#/std/dd586f6c3ec1155119c608d57669724b)
 
-![a](./images/wzry_3d.gif)
+![a](./images/a3d.gif)

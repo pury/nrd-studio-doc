@@ -2,7 +2,7 @@
 
 ![logo](https://tech.pkoala.com/docs/images/logo.png#logo)
 
-# NRD Studio <small>1.0.0</small>
+# NRD Studio <small>1.0.2</small>
 
 > 在线制作人物关系图谱编辑器
 

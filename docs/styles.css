@@ -10,3 +10,9 @@ img[src*="#logo"] {
 .doc-icon {
  	width: 16px;
 }
+
+.doc-effect {
+	width: 250px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}

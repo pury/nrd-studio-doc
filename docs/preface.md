@@ -13,16 +13,6 @@
 
 ![主界面](/images/mainui.png)
 
-#### 效果图
-
-2D版
-
-![2D效果图](https://tech.pkoala.com/assets/images/a2d.gif)
-
-3D版
-
-![3D效果图](https://tech.pkoala.com/assets/images/a3d.gif)
-
 #### 文档 
 
 NRD Studio在线文档，请访问：[NRD Studio文档](http://tech.pkoala.com/docs/#/preface)。
@@ -31,15 +21,15 @@ NRD Studio在线文档，请访问：[NRD Studio文档](http://tech.pkoala.com/d
 
 NRD Studio在线编辑器，请访问：[NRD Studio](http://tech.pkoala.com)。
 
-#### 头条小程序 
+#### 头条/抖音小程序 
 
-![头条小程序](https://tech.pkoala.com/docs/images/tt_qrcode.svg#logo);
+![头条小程序](https://tech.pkoala.com/docs/images/tt_qrcode.svg#logo)
 
 
 #### 推荐 
 
+* [人物关系图百科](https://wx.pkoala.com)
 * [优质作品关系图谱资源](https://tp.pkoala.com)
-* [关系图谱维基站](https://wx.pkoala.com)
 
 
 #### 联系我们
