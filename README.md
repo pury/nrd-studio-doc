@@ -4,7 +4,7 @@
 
 不同于常见的绘图工具，**NRD Studio**只需简单填写节点和关系数据，即可自动得到动态图谱，便捷高效，不用关心图中各元素的制作。专注于节点关系图谱制作，深挖关联链，引入圈子、标签等概念。重视交互性。
 
-[NRD Studio](https://nrdstudio.cn/docs) | [Demo](https://tech.pkoala.com/#/view?app=demo) | [Documentation](https://nrdstudio.cn/docs/#/preface)
+[NRD Studio](https://nrdstudio.cn) | [Demo](https://tech.pkoala.com/#/view?app=demo) | [Documentation](https://nrdstudio.cn/docs)
 
 ![主界面](https://nrdstudio.cn/res/main_app.png)
 
